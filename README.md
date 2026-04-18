@@ -21,4 +21,23 @@ A beginner-friendly Python calculator that takes a full expression in one line a
 
 ## 🛠️ How to Run
 ```bash
-python calculator.py
+
+---
+
+## 📚 What I Learned
+- Input handling in Python
+- String validation
+- Using `eval()` safely for simple projects
+- Basic logic building
+
+---
+
+## ⚠️ Note
+This project uses `eval()` which is fine for learning purposes, but not recommended for production applications.
+
+---
+
+## ✨ Future Improvements
+- Add GUI using Tkinter
+- Add history feature
+- Support advanced operations (power, brackets)
